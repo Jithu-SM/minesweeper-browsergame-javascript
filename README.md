@@ -53,7 +53,7 @@ A simple browser-based implementation of the classic Minesweeper game. This proj
 ## Demo
 
 To play the game directly, visit the live demo:
-[Live Demo Link]([https://minesweeper-gamebrowser.netlify.app/minesweeper](https://jithu-sm.github.io/minesweeper-browsergame-javascript/Minesweeper/)) 
+[Live Demo Link](https://minesweeper-gamebrowser.netlify.app/minesweeper](https://jithu-sm.github.io/minesweeper-browsergame-javascript/Minesweeper/) 
 
 ---
 
